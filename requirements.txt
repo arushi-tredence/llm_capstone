@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_openai
+langchain_core 
+langchain_text_splitters
+dotted_dict
+faiss-cpu
+streamlit
+python-dotenv
+
+
